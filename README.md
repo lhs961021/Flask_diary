@@ -1,4 +1,4 @@
 # Flask_diary
-Software engineering term project 
-with a Flask
+Software engineering term project<br> 
+with a Flask<br>
 Make a diary using CRUD
